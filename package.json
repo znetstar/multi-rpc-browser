@@ -1,0 +1,40 @@
+{
+  "name": "multi-rpc-browser",
+  "version": "1.0.0",
+  "description": "Multi-RPC package for browser use",
+  "main": "lib/index.js",
+  "scripts": {
+    "docs": "grunt docs",
+    "build": "grunt build",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "url": "https://github.com/znetstar/multi-rpc-browser",
+    "type": "git"
+  },
+  "author": "Zachary Boyd <zachary@zacharyboyd.nyc>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "multi-rpc-common": "^2.0.1",
+    "multi-rpc-core": "^1.0.0",
+    "multi-rpc-http-client-side-transport": "^1.0.2",
+    "multi-rpc-json-serializer": "^1.0.1",
+    "multi-rpc-msgpack-serializer": "^1.0.2",
+    "multi-rpc-websocket-client-side-transport": "^1.0.2"
+  },
+  "keywords": [
+    "rpc",
+    "jsonrpc",
+    "json",
+    "websocket",
+    "json-rpc",
+    "tcp",
+    "http"
+  ],
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-ts": "^6.0.0-beta.21",
+    "typescript": "^3.0.3"
+  }
+}
