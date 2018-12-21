@@ -4,7 +4,6 @@
   "description": "Multi-RPC package for browser use",
   "main": "lib/index.js",
   "scripts": {
-    "docs": "grunt docs",
     "build": "grunt build",
     "prepare": "npm run build"
   },
