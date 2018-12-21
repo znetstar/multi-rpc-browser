@@ -23,3 +23,4 @@ export { JSONSerializer } from "multi-rpc-json-serializer";
 export { MsgPackSerializer } from "multi-rpc-msgpack-serializer";
 export { HTTPError, HTTPClientTransport } from "multi-rpc-http-client-side-transport";
 export { Client } from "multi-rpc-core";
+export { WebSocketClientTransport } from "multi-rpc-websocket-client-side-transport";
