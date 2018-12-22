@@ -1,6 +1,6 @@
 {
   "name": "multi-rpc-browser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Multi-RPC package for browser use",
   "main": "lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "multi-rpc-http-client-side-transport": "^1.0.2",
     "multi-rpc-json-serializer": "^1.0.3",
     "multi-rpc-msgpack-serializer": "^1.0.3",
-    "multi-rpc-websocket-client-side-transport": "^1.0.2"
+    "multi-rpc-websocket-client-side-transport": "^1.0.3"
   },
   "keywords": [
     "rpc",
