@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.4] - 2018-12-22
+### Changed
+- Update multi-rpc-common.
+
 ## [1.0.3] - 2018-12-22
 ### Changed
 - Update websocket transport.
