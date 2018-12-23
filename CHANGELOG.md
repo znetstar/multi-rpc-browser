@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.0] - 2018-12-23
+### Added
+- WebSocket client attempts to reconnect to server upon disconnect.
+
 ## [1.0.4] - 2018-12-22
 ### Changed
 - Update multi-rpc-common.
