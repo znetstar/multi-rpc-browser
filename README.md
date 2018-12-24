@@ -2,8 +2,6 @@
 
 [![NPM](https://nodei.co/npm/multi-rpc-browser.png)](https://nodei.co/npm/multi-rpc-browser/)
 
-[![Build Status](https://travis-ci.org/znetstar/multi-rpc-browser.svg?branch=master)](https://travis-ci.org/znetstar/multi-rpc-browser)
-
 Multi-RPC browser is a [Multi RPC](https://github.com/znetstar/multi-rpc) package which excludes classes that won't run the browser.
 
 ## Projects layout
