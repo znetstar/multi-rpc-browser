@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.2.0] - 2018-12-23
+### Added
+- WebSocket client queues messages until a connection has been established.
+
 ## [1.1.0] - 2018-12-23
 ### Added
 - WebSocket client attempts to reconnect to server upon disconnect.
