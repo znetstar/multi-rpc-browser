@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.2.2] - 2018-01-02
+### Changed
+- Fixes bug with reconnection.
+
 ## [1.2.1] - 2018-12-24
 ### Changed
 - Update websocket transport.
