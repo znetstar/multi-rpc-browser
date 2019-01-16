@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.2.5] - 2019-01-16
+### Changed
+- Updates multi-rpc-core.
+
 ## [1.2.4] - 2019-01-02
 ### Changed
 - Updates multi-rpc-common.
