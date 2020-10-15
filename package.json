@@ -1,11 +1,12 @@
 {
   "name": "multi-rpc-browser",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Multi-RPC package for browser use",
   "main": "lib/index.js",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
-  },
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },,
   "scripts": {
     "build": "grunt build",
     "prepare": "npm run build"
@@ -21,7 +22,7 @@
     "multi-rpc-core": "^1.0.3",
     "multi-rpc-http-client-side-transport": "^1.0.6",
     "multi-rpc-json-serializer": "^1.0.5",
-    "multi-rpc-msgpack-serializer": "^1.0.5",
+    "multi-rpc-msgpack-serializer": "^1.0.7",
     "multi-rpc-websocket-client-side-transport": "^1.2.7"
   },
   "keywords": [
