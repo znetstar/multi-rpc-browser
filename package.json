@@ -1,6 +1,6 @@
 {
   "name": "multi-rpc-browser",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "Multi-RPC package for browser use",
   "main": "lib/index.js",
   "publishConfig": {
