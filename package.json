@@ -6,7 +6,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
     "access": "public"
-  },,
+  },
   "scripts": {
     "build": "grunt build",
     "prepare": "npm run build"
