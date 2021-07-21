@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.4.0] - 2021-07-20
+### Changes
+- Makes `multi-rcp-common` a peer-dependency
+
 ## [1.2.5] - 2019-01-16
 ### Changed
 - Updates multi-rpc-core.
