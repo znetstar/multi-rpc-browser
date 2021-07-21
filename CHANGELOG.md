@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.4.4] - 2021-07-20
+### Changes
+- UUpgrades multi-rpc-common
+
 ## [1.4.0] - 2021-07-20
 ### Changes
 - Makes `multi-rcp-common` a peer-dependency
