@@ -1,6 +1,6 @@
 {
     "name": "multi-rpc-browser",
-    "version": "1.4.5",
+    "version": "1.4.6",
     "description": "Multi-RPC package for browser use",
     "main": "lib/index.js",
     "publishConfig": {
@@ -18,7 +18,7 @@
     "author": "Zachary Boyd <zachary@zacharyboyd.nyc>",
     "license": "Apache-2.0",
     "dependencies": {
-        "multi-rpc-common": "^2.3.3",
+        "multi-rpc-common": "^2.3.5",
         "multi-rpc-core": "^1.2.0",
         "multi-rpc-http-client-side-transport": "^1.2.1",
         "multi-rpc-json-serializer": "^1.1.1",
