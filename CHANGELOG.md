@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.5.1] - 2021-09-13
+### Changes
+- Upgrades multi-rpc-core
+
 ## [1.5.0] - 2021-09-13
 ### Changes
 - Upgrades multi-rpc-core
